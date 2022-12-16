@@ -1,7 +1,7 @@
 ### Olá, mundo! Meu nome é Maria! 👋
 
 
-- 💼 Hoje trabalho como estagiária de TI na defesa técnica de projetos de pesquisa e desenvolvimento 
+- 💼 Hoje trabalho como estagiária de TI na defesa técnica de projetos de pesquisa, desenvolvimento e inovação tecnológica
 - 📚 Minha principal linguagem de estudos é java, mas me aventuro no front com react.js 
 - 🖥 Meus conhecimentos em Java compreendem : 
   - A lógica de programação;
