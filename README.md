@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, mundo! Meu nome é Maria! 👋
 
-<!--
-**MariaHRCastro/MariaHRCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Hoje trabalho como estagiária de TI na defesa técnica de projetos de pesquisa e desenvolvimento 
+- 📚 Minha principal linguagem de estudos é java, mas me aventuro no front com react.js 
+- 🖥 Meus conhecimentos em Java compreendem : 
+  - A lógica de programação;
+  - Orientação a objetos;
+  - Acesso a banco de dados via dao;
+  - Uso do JPA Hibernate;
+  - Criação de sistemas backend com springboot;
+- 🎲 Sou formada em Administração de Banco de Dados Relacional - MySQL
+- 📫 Meu contato é : mariharibeirodecastro@gmail.com
