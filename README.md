@@ -10,7 +10,6 @@
   - Uso do JPA Hibernate;
   - Criação de sistemas backend com springboot;
 - 🎲 Sou formada em Administração de Banco de Dados Relacional - MySQL
-- 📫 Meu contato é : mariharibeirodecastro@gmail.com
 
 <div align="center">
   <a href="https://github.com/mariahrcastro">
